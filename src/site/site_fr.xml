@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <body>
+        <links>
+            <item name="EN" href="../index.html" />
+        </links>
+        
+        <menu name="Module Oauth2 FranceConnect">
+            <item name="Accueil" href="index.html"/>
+        </menu>
+        
+        <menu name="Téléchargements" inherit="bottom" >
+            <item name="Versions stables" href="../../../stable_builds/plugins/module-oauth2-franceconnect/"/>
+            <item name="Nightly builds" href="../../../nightly_builds/plugins/module-oauth2-franceconnect/" />
+        </menu>
+
+        <menu name="Liens FranceConnect ">
+            <item name="Site FranceConnect" href="http://dev-franceconnect.fr" target="_blank"/>
+        </menu>	    
+        
+        <menu ref="reports" />
+    </body>
+</project>
