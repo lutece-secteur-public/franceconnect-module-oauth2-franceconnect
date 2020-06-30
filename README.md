@@ -3,6 +3,7 @@
 [![Line of code](https://dev.lutece.paris.fr/sonar/api/project_badges/measure?project=fr.paris.lutece.plugins%3Amodule-oauth2-franceconnect&metric=ncloc)](https://dev.lutece.paris.fr/sonar/dashboard?id=fr.paris.lutece.plugins%3Amodule-oauth2-franceconnect)
 [![Coverage](https://dev.lutece.paris.fr/sonar/api/project_badges/measure?project=fr.paris.lutece.plugins%3Amodule-oauth2-franceconnect&metric=coverage)](https://dev.lutece.paris.fr/sonar/dashboard?id=fr.paris.lutece.plugins%3Amodule-oauth2-franceconnect)
 
+
 # Module Oauth2 FranceConnect
 
 ![](https://dev.lutece.paris.fr/plugins/module-oauth2-franceconnect/images/franceconnect.png)
