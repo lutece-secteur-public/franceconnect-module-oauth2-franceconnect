@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<plug-in>
+<?xml version="1.0" encoding="UTF-8"?><plug-in>
     <name>oauth2-franceconnect</name>
     <class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <description>module.oauth2.franceconnect.module.description</description>
     <documentation/>
     <installation/>
