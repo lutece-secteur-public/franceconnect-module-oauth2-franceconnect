@@ -39,7 +39,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import fr.paris.lutece.plugins.oauth2.business.Token;
-import fr.paris.lutece.plugins.oauth2.dataclient.AbstractDataClient;
+import fr.paris.lutece.plugins.oauth2.dataclient.AbstractJWTDataClient;
 import fr.paris.lutece.plugins.oauth2.modules.franceconnect.business.UserInfo;
 import fr.paris.lutece.plugins.oauth2.service.MapperService;
 
@@ -47,7 +47,7 @@ import fr.paris.lutece.plugins.oauth2.service.MapperService;
 /**
  * UserInfoDataClient
  */
-public class UserInfoDataClient extends AbstractDataClient
+public class UserInfoDataClient extends AbstractJWTDataClient
 {
 
     /**
